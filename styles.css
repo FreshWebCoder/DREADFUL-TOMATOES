@@ -6,6 +6,8 @@
 
 body {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   flex-direction: column;
   min-height: 100vh;
   font-family: Poppins;
@@ -200,6 +202,8 @@ h3.white {
 }
 .nectar-video-box .play_button_mouse_follow.nectar_video_lightbox {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
   justify-content: center;
   width: 94px;
@@ -280,6 +284,8 @@ h3.white {
 
 .row {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   padding-bottom: 24px;
 }
 .row, div.clear {
@@ -302,6 +308,8 @@ h3.white {
 
 #top .span_3 {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   width: auto;
   height: 100%;
 }
@@ -314,6 +322,8 @@ h3.white {
 }
 #top #logo {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   margin-top: 28px;
   margin-bottom: 28px;
 }
@@ -333,6 +343,8 @@ h3.white {
 #top>.container>.row nav>ul>li {
   position: relative;
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
 }
 #top nav>ul>li>a {
@@ -367,6 +379,8 @@ h3.white {
 }
 #top nav>ul>li.get-access>a {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
   font-size: 14px;
   line-height: 14px;
@@ -470,6 +484,8 @@ h3.white {
 }
 .vc_row-fluid>.span_12 {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   flex-wrap: wrap;
   margin-left: -1%;
   margin-right: -1%;
@@ -602,6 +618,8 @@ h3.white {
 }
 .vc_row.vc_row-flex>.span_12>.vc_column_container {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
 }
 .wpb_wrapper {
   position: relative;
@@ -633,6 +651,8 @@ h3.white {
 
 .carousel.clients {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
 }
 
@@ -672,6 +692,8 @@ h3.white {
 }
 .carousel.clients {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   align-items: center;
 }
 .carousel .no-link {
@@ -680,6 +702,8 @@ h3.white {
 }
 .vc_column_container>.vc_column-inner {
   display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   justify-content: center;
   flex-direction: column;
   width: 100%;
@@ -830,12 +854,18 @@ h3.white {
 
   #top .span_3, #top .span_9 {
     display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
   }
   #top>.container>.row nav {
     display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
   }
   #top>.container>.row nav>ul {
     display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     justify-content: center;
   }
 
